@@ -1,9 +1,7 @@
-## Hi there 👋
+## Lã Minh Hiếu - UNETI
 
-<!--
-**ht11127/ht11127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# University: Trường Đại học Kinh tế - Kỹ thuật Công nghiệp
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
